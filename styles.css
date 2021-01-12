@@ -1,0 +1,8 @@
+.items {
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  width: 20vw;
+}
